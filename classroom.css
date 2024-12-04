@@ -1,0 +1,33 @@
+.header {
+	border-bottom: 1px solid black;
+	background-color: grey;
+}
+
+.grey {
+	background-color: lightgrey;
+}
+
+/*.names {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}*/
+
+.center-table {
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+
+.center {
+	text-align: center;
+}
+
+body, .btn {
+	font-size: 40px;
+}
+
+.btn {
+	padding-left: 1%;
+	padding-right: 1%;	
+	height: 100%;
+}
